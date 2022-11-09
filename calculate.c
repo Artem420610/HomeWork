@@ -56,7 +56,7 @@ Calculate(float Numeral, char Operation[4])
     return(tan(Numeral));
   else
     {
-      printf("Неправильно введено действие ");
+      printf("Deistvie");
       return(HUGE_VAL);
     }
 }
